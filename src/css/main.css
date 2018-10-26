@@ -1,0 +1,10 @@
+@import "sanitize.css";
+
+.levelate-container {
+    display: flex;
+    flex-direction: column;
+    background: yellow;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
